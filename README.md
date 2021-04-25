@@ -15,7 +15,7 @@ A simple way would be to use  "conda install basemap"
 4. Folium is used for one of the visuals along with the us-states.json we used earlier in the year.
 documentation here:https://python-visualization.github.io/folium/
 simple way : "pip install folium"
-
+us-states.json here: https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json
 
 
 Vinny Barile - created visuals including the seaborn plots,folium map and the map using basemap.
