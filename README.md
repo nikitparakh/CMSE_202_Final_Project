@@ -5,6 +5,7 @@ Final Project: Business Affected by COVID-19
 HOW TO RUN CODE:
 
 1. Dataset to run our code can be found here:
+
     https://www.yelp.com/dataset
     
     https://github.com/nytimes/covid-19-data/blob/master/us-states.csv
