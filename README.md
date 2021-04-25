@@ -4,7 +4,9 @@ Final Project: Business Affected by COVID-19
 
 HOW TO RUN CODE:
 
-1. Dataset to run our code can be found here:https://www.yelp.com/dataset along with the documentation here:https://www.yelp.com/dataset/documentation/main.
+1. Dataset to run our code can be found here:
+    https://www.yelp.com/dataset
+    https://github.com/nytimes/covid-19-data/blob/master/us-states.csv
 
 2. Make sure you download the main dataset which is a json file: yelp_academic_dataset_business.json
 
